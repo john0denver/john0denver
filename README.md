@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @john0denver
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C#
