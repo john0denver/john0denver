@@ -2,7 +2,7 @@
 
 ### 📊 Contador & Desenvolvedor Python
 
-Sou um **Contadorr** apaixonado por tecnologia. Estou unindo meu conhecimento de negócios com o poder do desenvolvimento de software para criar soluções inteligentes e automatizadas.
+Sou um **Contador** apaixonado por tecnologia. Estou unindo meu conhecimento de negócios com o poder do desenvolvimento de software para criar soluções inteligentes e automatizadas.
 
 Atualmente, meu foco total é em **Python** e análise de dados.
 
