@@ -47,17 +47,6 @@ Atualmente, foco em construir pipelines de dados resilientes e ferramentas de au
 - 📉 Integrando APIs bancárias com sistemas governamentais.
 
 ---
-
-### 📈 Minhas Estatísticas
-
-<div align="center">
-  <a href="https://github.com/john0denver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=john0denver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john0denver&layout=compact&theme=dracula&langs_count=8"/>
-  </a>
-</div>
-
----
 <div align="center">
   <sub>Um dado confiável é um dado auditável.</sub><br>
   <a href="https://www.linkedin.com/in/john-d-709893145" target="_blank">
